@@ -7,9 +7,9 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Top Edits",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "We are a video editing company dedicated to turning raw footage into professional, engaging, and polished content. Whether it’s for businesses, creators, or personal projects, we focus on making videos that connect with audiences and tell stories in a clear and creative way. Our goal is simple: you film it, we make it shine.",
   og: {
     title: "Ashutosh Hathidara Portfolio",
     type: "website",
